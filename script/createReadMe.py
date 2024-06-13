@@ -4,7 +4,7 @@ import leetcode
 import time
 
 solutionFileDir = "../problems"
-absolutePath = "/hekoh99/daily_leetcode/tree/main/problems"
+absolutePath = "/hekoh99/daily_leetcode/blob/main/problems"
 
 leetcode_api_instance = leetcode.DefaultApi(leetcode.ApiClient(leetcode.Configuration()))
 leetcode_query_get_question_info = """
@@ -74,7 +74,7 @@ class Problem:
         return "https://leetcode.com/problems/" + self.problemTitle
         
     def getSolutionPath(self):
-        return absolutePath + "/" + self.solutionFile + "/" + self.solutionFile
+        return absolutePath + "/" + self.solutionFile + "/" + self.solutionFile + ".cpp"
     
     def getDifficultyColor(self, difficulty):
         difficultyColor = {"Easy" : "#5ad7b7", "Medium": "#6580DD", "Hard" : "#DD6565"}.get(difficulty, "#FFFFFF")
