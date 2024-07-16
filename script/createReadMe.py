@@ -4,7 +4,8 @@ import leetcode
 import time
 
 solutionFileDir = "../problems"
-absolutePath = "/hekoh99/daily_leetcode/blob/main/problems"
+# absolutePath = "/hekoh99/daily_leetcode/blob/main/problems"
+absolutePath = "/problems"
 
 leetcode_api_instance = leetcode.DefaultApi(leetcode.ApiClient(leetcode.Configuration()))
 leetcode_query_get_question_info = """
