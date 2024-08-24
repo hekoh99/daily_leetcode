@@ -4,11 +4,11 @@ Daily algorithm practice
 ## Progress
 Total |
 ------------- |
-108 |
+109 |
 
 $\bf{\large{\color{#5ad7b7}Easy}}$| $\bf{\large{\color{#6580DD}Medium}}$ | $\bf{\large{\color{#DD6565}Hard}}$
 ------------- | ------------- | -------------
-18 | 75 | 15
+18 | 75 | 16
 
 \# | Solution Code | LeetCode Link | Difficulty | Accepted Rate
 ------------- | ------------- | ------------- | ------------- | -------------
@@ -38,6 +38,7 @@ $\bf{\large{\color{#5ad7b7}Easy}}$| $\bf{\large{\color{#6580DD}Medium}}$ | $\bf{
 1289 | [Minimum Falling Path Sum II](/problems/1289-minimum-falling-path-sum-ii/1289-minimum-falling-path-sum-ii.cpp) | [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii) | $\bf{\large{\color{#DD6565}Hard}}$ | 64.3%
 0344 | [Reverse String](/problems/0344-reverse-string/0344-reverse-string.cpp) | [0344. Reverse String](https://leetcode.com/problems/reverse-string) | $\bf{\large{\color{#5ad7b7}Easy}}$ | 78.9%
 2370 | [Longest Ideal Subsequence](/problems/2370-longest-ideal-subsequence/2370-longest-ideal-subsequence.cpp) | [2370. Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence) | $\bf{\large{\color{#6580DD}Medium}}$ | 47.3%
+0564 | [Find the Closest Palindrome](/problems/0564-find-the-closest-palindrome/0564-find-the-closest-palindrome.cpp) | [0564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome) | $\bf{\large{\color{#DD6565}Hard}}$ | 25.8%
 1717 | [Maximum Score From Removing Substrings](/problems/1717-maximum-score-from-removing-substrings/1717-maximum-score-from-removing-substrings.cpp) | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | $\bf{\large{\color{#6580DD}Medium}}$ | 63.1%
 0995 | [Minimum Number of K Consecutive Bit Flips](/problems/0995-minimum-number-of-k-consecutive-bit-flips/0995-minimum-number-of-k-consecutive-bit-flips.cpp) | [0995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips) | $\bf{\large{\color{#DD6565}Hard}}$ | 62.7%
 1608 | [Special Array With X Elements Greater Than or Equal X](/problems/1608-special-array-with-x-elements-greater-than-or-equal-x/1608-special-array-with-x-elements-greater-than-or-equal-x.cpp) | [1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) | $\bf{\large{\color{#5ad7b7}Easy}}$ | 66.9%
@@ -45,7 +46,7 @@ $\bf{\large{\color{#5ad7b7}Easy}}$| $\bf{\large{\color{#6580DD}Medium}}$ | $\bf{
 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](/problems/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp) | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | $\bf{\large{\color{#6580DD}Medium}}$ | 68.3%
 1219 | [Path with Maximum Gold](/problems/1219-path-with-maximum-gold/1219-path-with-maximum-gold.cpp) | [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | $\bf{\large{\color{#6580DD}Medium}}$ | 68.0%
 2196 | [Create Binary Tree From Descriptions](/problems/2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.cpp) | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions) | $\bf{\large{\color{#6580DD}Medium}}$ | 81.8%
-0945 | [Minimum Increment to Make Array Unique](/problems/0945-minimum-increment-to-make-array-unique/0945-minimum-increment-to-make-array-unique.cpp) | [0945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | $\bf{\large{\color{#6580DD}Medium}}$ | 60.0%
+0945 | [Minimum Increment to Make Array Unique](/problems/0945-minimum-increment-to-make-array-unique/0945-minimum-increment-to-make-array-unique.cpp) | [0945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | $\bf{\large{\color{#6580DD}Medium}}$ | 60.1%
 1636 | [Sort Array by Increasing Frequency](/problems/1636-sort-array-by-increasing-frequency/1636-sort-array-by-increasing-frequency.cpp) | [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | $\bf{\large{\color{#5ad7b7}Easy}}$ | 79.8%
 2181 | [Merge Nodes in Between Zeros](/problems/2181-merge-nodes-in-between-zeros/2181-merge-nodes-in-between-zeros.cpp) | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) | $\bf{\large{\color{#6580DD}Medium}}$ | 89.8%
 1137 | [N-th Tribonacci Number](/problems/1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.cpp) | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | $\bf{\large{\color{#5ad7b7}Easy}}$ | 63.8%
@@ -67,7 +68,7 @@ $\bf{\large{\color{#5ad7b7}Easy}}$| $\bf{\large{\color{#6580DD}Medium}}$ | $\bf{
 1208 | [Get Equal Substrings Within Budget](/problems/1208-get-equal-substrings-within-budget/1208-get-equal-substrings-within-budget.cpp) | [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | $\bf{\large{\color{#6580DD}Medium}}$ | 58.3%
 0189 | [Rotate Array](/problems/0189-rotate-array/0189-rotate-array.cpp) | [0189. Rotate Array](https://leetcode.com/problems/rotate-array) | $\bf{\large{\color{#6580DD}Medium}}$ | 41.3%
 2487 | [Remove Nodes From Linked List](/problems/2487-remove-nodes-from-linked-list/2487-remove-nodes-from-linked-list.cpp) | [2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list) | $\bf{\large{\color{#6580DD}Medium}}$ | 74.3%
-1937 | [Maximum Number of Points with Cost](/problems/1937-maximum-number-of-points-with-cost/1937-maximum-number-of-points-with-cost.cpp) | [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost) | $\bf{\large{\color{#6580DD}Medium}}$ | 43.0%
+1937 | [Maximum Number of Points with Cost](/problems/1937-maximum-number-of-points-with-cost/1937-maximum-number-of-points-with-cost.cpp) | [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost) | $\bf{\large{\color{#6580DD}Medium}}$ | 42.9%
 0648 | [Replace Words](/problems/0648-replace-words/0648-replace-words.cpp) | [0648. Replace Words](https://leetcode.com/problems/replace-words) | $\bf{\large{\color{#6580DD}Medium}}$ | 68.1%
 0122 | [Best Time to Buy and Sell Stock II](/problems/0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.cpp) | [0122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | $\bf{\large{\color{#6580DD}Medium}}$ | 67.4%
 1038 | [Binary Search Tree to Greater Sum Tree](/problems/1038-binary-search-tree-to-greater-sum-tree/1038-binary-search-tree-to-greater-sum-tree.cpp) | [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | $\bf{\large{\color{#6580DD}Medium}}$ | 88.3%
