@@ -4,11 +4,11 @@ Daily algorithm practice
 ## Progress
 Total |
 ------------- |
-133 |
+136 |
 
 $\bf{\large{\color{#5ad7b7}Easy}}$| $\bf{\large{\color{#6580DD}Medium}}$ | $\bf{\large{\color{#DD6565}Hard}}$
 ------------- | ------------- | -------------
-18 | 97 | 18
+18 | 99 | 19
 
 \# | Solution Code | LeetCode Link | Difficulty | Accepted Rate
 ------------- | ------------- | ------------- | ------------- | -------------
@@ -39,6 +39,7 @@ $\bf{\large{\color{#5ad7b7}Easy}}$| $\bf{\large{\color{#6580DD}Medium}}$ | $\bf{
 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](/problems/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp) | [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | $\bf{\large{\color{#6580DD}Medium}}$ | 56.6%
 2812 | [Find the Safest Path in a Grid](/problems/2812-find-the-safest-path-in-a-grid/2812-find-the-safest-path-in-a-grid.cpp) | [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | $\bf{\large{\color{#6580DD}Medium}}$ | 49.0%
 0725 | [Split Linked List in Parts](/problems/0725-split-linked-list-in-parts/0725-split-linked-list-in-parts.cpp) | [0725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | $\bf{\large{\color{#6580DD}Medium}}$ | 69.9%
+0179 | [Largest Number](/problems/0179-largest-number/0179-largest-number.cpp) | [0179. Largest Number](https://leetcode.com/problems/largest-number) | $\bf{\large{\color{#6580DD}Medium}}$ | 39.9%
 1482 | [Minimum Number of Days to Make m Bouquets](/problems/1482-minimum-number-of-days-to-make-m-bouquets/1482-minimum-number-of-days-to-make-m-bouquets.cpp) | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) | $\bf{\large{\color{#6580DD}Medium}}$ | 55.6%
 0945 | [Minimum Increment to Make Array Unique](/problems/0945-minimum-increment-to-make-array-unique/0945-minimum-increment-to-make-array-unique.cpp) | [0945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | $\bf{\large{\color{#6580DD}Medium}}$ | 60.1%
 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](/problems/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.cpp) | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) | $\bf{\large{\color{#6580DD}Medium}}$ | 59.3%
@@ -132,6 +133,7 @@ $\bf{\large{\color{#5ad7b7}Easy}}$| $\bf{\large{\color{#6580DD}Medium}}$ | $\bf{
 0122 | [Best Time to Buy and Sell Stock II](/problems/0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.cpp) | [0122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | $\bf{\large{\color{#6580DD}Medium}}$ | 67.7%
 0151 | [Reverse Words in a String](/problems/0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp) | [0151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | $\bf{\large{\color{#6580DD}Medium}}$ | 46.3%
 0209 | [Minimum Size Subarray Sum](/problems/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.cpp) | [0209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | $\bf{\large{\color{#6580DD}Medium}}$ | 47.9%
+0214 | [Shortest Palindrome](/problems/0214-shortest-palindrome/0214-shortest-palindrome.cpp) | [0214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | $\bf{\large{\color{#DD6565}Hard}}$ | 36.6%
 1255 | [Maximum Score Words Formed by Letters](/problems/1255-maximum-score-words-formed-by-letters/1255-maximum-score-words-formed-by-letters.cpp) | [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters) | $\bf{\large{\color{#DD6565}Hard}}$ | 82.0%
 0238 | [Product of Array Except Self](/problems/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp) | [0238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | $\bf{\large{\color{#6580DD}Medium}}$ | 66.7%
 2751 | [Robot Collisions](/problems/2751-robot-collisions/2751-robot-collisions.cpp) | [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions) | $\bf{\large{\color{#DD6565}Hard}}$ | 57.0%
@@ -145,3 +147,4 @@ $\bf{\large{\color{#5ad7b7}Easy}}$| $\bf{\large{\color{#6580DD}Medium}}$ | $\bf{
 0344 | [Reverse String](/problems/0344-reverse-string/0344-reverse-string.cpp) | [0344. Reverse String](https://leetcode.com/problems/reverse-string) | $\bf{\large{\color{#5ad7b7}Easy}}$ | 79.0%
 0260 | [Single Number III](/problems/0260-single-number-iii/0260-single-number-iii.cpp) | [0260. Single Number III](https://leetcode.com/problems/single-number-iii) | $\bf{\large{\color{#6580DD}Medium}}$ | 70.8%
 0075 | [Sort Colors](/problems/0075-sort-colors/0075-sort-colors.cpp) | [0075. Sort Colors](https://leetcode.com/problems/sort-colors) | $\bf{\large{\color{#6580DD}Medium}}$ | 65.0%
+0241 | [Different Ways to Add Parentheses](/problems/0241-different-ways-to-add-parentheses/0241-different-ways-to-add-parentheses.cpp) | [0241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | $\bf{\large{\color{#6580DD}Medium}}$ | 71.4%
